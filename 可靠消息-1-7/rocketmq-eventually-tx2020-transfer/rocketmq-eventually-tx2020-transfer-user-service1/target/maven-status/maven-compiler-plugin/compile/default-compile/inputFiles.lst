@@ -1,0 +1,10 @@
+/Users/wangxy/Desktop/分布式事务解决/source/可靠消息-1-7/rocketmq-eventually-tx2020-transfer/rocketmq-eventually-tx2020-transfer-user-service1/src/main/java/com/kfit/user/repository/AccountRepository.java
+/Users/wangxy/Desktop/分布式事务解决/source/可靠消息-1-7/rocketmq-eventually-tx2020-transfer/rocketmq-eventually-tx2020-transfer-user-service1/src/main/java/com/kfit/user/repository/TxNo2Repository.java
+/Users/wangxy/Desktop/分布式事务解决/source/可靠消息-1-7/rocketmq-eventually-tx2020-transfer/rocketmq-eventually-tx2020-transfer-user-service1/src/main/java/com/kfit/user/service/impl/AccountServiceImpl.java
+/Users/wangxy/Desktop/分布式事务解决/source/可靠消息-1-7/rocketmq-eventually-tx2020-transfer/rocketmq-eventually-tx2020-transfer-user-service1/src/main/java/com/kfit/user/bean/Account.java
+/Users/wangxy/Desktop/分布式事务解决/source/可靠消息-1-7/rocketmq-eventually-tx2020-transfer/rocketmq-eventually-tx2020-transfer-user-service1/src/main/java/com/kfit/user/bean/TxNo2.java
+/Users/wangxy/Desktop/分布式事务解决/source/可靠消息-1-7/rocketmq-eventually-tx2020-transfer/rocketmq-eventually-tx2020-transfer-user-service1/src/main/java/com/kfit/user/controller/AccountController.java
+/Users/wangxy/Desktop/分布式事务解决/source/可靠消息-1-7/rocketmq-eventually-tx2020-transfer/rocketmq-eventually-tx2020-transfer-user-service1/src/main/java/com/kfit/UserService1App.java
+/Users/wangxy/Desktop/分布式事务解决/source/可靠消息-1-7/rocketmq-eventually-tx2020-transfer/rocketmq-eventually-tx2020-transfer-user-service1/src/main/java/com/kfit/user/service/AccountService.java
+/Users/wangxy/Desktop/分布式事务解决/source/可靠消息-1-7/rocketmq-eventually-tx2020-transfer/rocketmq-eventually-tx2020-transfer-user-service1/src/main/java/com/kfit/user/message/event/ConsumerTransferListener.java
+/Users/wangxy/Desktop/分布式事务解决/source/可靠消息-1-7/rocketmq-eventually-tx2020-transfer/rocketmq-eventually-tx2020-transfer-user-service1/src/main/java/com/kfit/user/message/event/AccountChangeEvent.java

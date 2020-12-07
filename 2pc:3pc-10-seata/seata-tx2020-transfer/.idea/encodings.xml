@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="GBK">
+    <file url="file://$PROJECT_DIR$/seata-tx2020-transfer-discovery" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/seata-tx2020-transfer-user-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/seata-tx2020-transfer-user-service1" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

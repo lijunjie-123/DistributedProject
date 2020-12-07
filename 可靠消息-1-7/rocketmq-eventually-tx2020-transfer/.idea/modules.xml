@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/rocketmq-eventually-tx2020-transfer-discovery/rocketmq-eventually-tx2020-transfer-discovery.iml" filepath="$PROJECT_DIR$/rocketmq-eventually-tx2020-transfer-discovery/rocketmq-eventually-tx2020-transfer-discovery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rocketmq-eventually-tx2020-transfer-user-service/rocketmq-eventually-tx2020-transfer-user-service.iml" filepath="$PROJECT_DIR$/rocketmq-eventually-tx2020-transfer-user-service/rocketmq-eventually-tx2020-transfer-user-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rocketmq-eventually-tx2020-transfer-user-service1/rocketmq-eventually-tx2020-transfer-user-service1.iml" filepath="$PROJECT_DIR$/rocketmq-eventually-tx2020-transfer-user-service1/rocketmq-eventually-tx2020-transfer-user-service1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tx2020-transfer.iml" filepath="$PROJECT_DIR$/tx2020-transfer.iml" />
+    </modules>
+  </component>
+</project>

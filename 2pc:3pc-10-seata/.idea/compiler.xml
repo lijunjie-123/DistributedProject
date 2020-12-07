@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="seata-tx2020-transfer-discovery" />
+        <module name="seata-tx2020-transfer-user-service" />
+        <module name="seata-tx2020-transfer-user-service1" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="seata-tx2020-transfer-discovery" target="1.5" />
+      <module name="seata-tx2020-transfer-user-service" target="1.5" />
+      <module name="seata-tx2020-transfer-user-service1" target="1.5" />
+      <module name="tx2020-transfer" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
